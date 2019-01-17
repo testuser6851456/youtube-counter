@@ -1,2 +1,2 @@
 # youtube-counter
-Счетчик подписчиков на YouTube
+Счетчик подписчиков на Youtube
